@@ -1,0 +1,8 @@
+1. aquire data directly from txt files. also be able to arrange txt files by their name.
+2. add a title part for the program to make the graphs more clear
+3. add a 2D plot of water concentration change(actually, this can be done with the original software come with the QMS)
+4. see if I can add the time stamp to each scan. make the y axis not just scan number, but also can open the data file and find the exact time.
+
+
+Dongyu Liu 
+20160802

@@ -1,0 +1,4 @@
+start from main.m
+everything else are all included in the head of main.m
+all you need to do is export the ASCII data from rgaApp and keep them all in one folder.
+Then go to main.m to change the according varibles.
